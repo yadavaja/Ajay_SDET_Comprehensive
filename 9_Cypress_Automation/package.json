@@ -1,0 +1,14 @@
+{
+  "name": "AutomationPanda",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Ajay Yadav",
+  "devDependencies": {
+    "cypress": "^13.6.2",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  }
+}
