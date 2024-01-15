@@ -1,0 +1,14 @@
+git config --global user.email "03ajayyadav@gmail.com"
+git config --global user.name "03ajayyadav"
+git init
+git add .
+<<<<<<< HEAD
+git commit -m "SDET_Comprehensive"
+git branch SDET_Branch_Comprehensive
+git checkout SDET_Branch_Comprehensive
+git remote add origin https://github.com/yadavaja/Ajay_SDET_Comprehensive.git
+git push -u origin SDET_Branch_Comprehensive
+
+
+https://github.com/yadavaja/Ajay_SDET_Comprehensive/tree/SDET_Branch_Comprehensive
+
